@@ -1,6 +1,9 @@
 # Project Name : myPair Pilot [IN PROGRESS]
 it is not the plan, it is the pair
 
+# OverView
+![1](./imgs/1.JPG)
+
 # Target : issues of myPairs
 MAVERICK's Issues
 
@@ -50,5 +53,3 @@ TOPGUN:MAVERICK ; [link](https://namu.wiki/w/%ED%83%91%EA%B1%B4(%EC%98%81%ED%99%
  => there is problem ; ?, required, but !
 
 7.?
-
-...tq

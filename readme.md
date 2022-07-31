@@ -1,7 +1,7 @@
 # Project Name : myPair Pilot [IN PROGRESS]
 it is not the plan, it is the pair
 
-# OverView
+# Overview
 ![1](./imgs/1.JPG)
 
 # Target : issues of myPairs
@@ -30,9 +30,13 @@ http://193.123.224.216:8080/pair/v/pi
 
 *As long as Oracle's always free exist, Pair Pilot exists.
 
+# Appendix
+[Teacher Said 'Linux is /, Window is \', BUT Pair said, 'It's OK, Let's See']
+
 # Expansion
 1. Find another Goose's service corresponding to myPairPilot Service and Check
 2. Android client + REST API
+
 
 # Background
 TOPGUN:MAVERICK ; [link](https://namu.wiki/w/%ED%83%91%EA%B1%B4(%EC%98%81%ED%99%94))
